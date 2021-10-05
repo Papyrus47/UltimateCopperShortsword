@@ -1,0 +1,3 @@
+displayName = 最终铜短剑（Ultimate Copper Shortsword）
+author = papryus
+version = 0.1
